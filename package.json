@@ -1,0 +1,32 @@
+{
+  "name": "todoMVC",
+  "version": "1.0.0",
+  "description": "todoMVC for Rework JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean-Christophe Cuvelier <jcc@foobarhq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@reworkjs/reworkjs": "0.0.1-alpha.0",
+    "classnames": "^2.2.5",
+    "decko": "^1.2.0",
+    "react": "^15.4.2",
+    "react-cookie": "^1.0.5",
+    "react-dom": "^15.4.2",
+    "react-helmet": "^5.0.2",
+    "react-intl": "^2.2.3",
+    "react-router": "^3.0.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^3.6.0",
+    "redux-saga": "^0.14.3",
+    "todomvc-app-css": "^2.1.0",
+    "todomvc-common": "^1.0.3"
+  },
+  "devDependencies": {
+    "@foobarhq/eslint-config": "^1.0.1",
+    "@reworkjs/babel-preset-reworkjs": "0.0.2",
+    "eslint": "^3.18.0"
+  }
+}
